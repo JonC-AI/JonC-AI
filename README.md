@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @JonC-AI
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Python and Web Development
+- 👋 Hi, I’m Jonathan Stewart
+- 👀 I’m interested in learning Full-Stack Development
+- 🌱 I’m currently learning Python, HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my email
 - 😄 Pronouns: He Him
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
 
 <!---
 JonC-AI/JonC-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
